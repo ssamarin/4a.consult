@@ -1,62 +1,35 @@
 @font-face {
   font-weight: 400;
-  font-family: "PT Root UI", serif;
+  font-family: "Bebas Neue", sans-serif;
   font-style: normal;
   src:
-    url("../assets/fonts/pt-root-ui_regular.woff2") format("woff2"),
-    url("../assets/fonts/pt-root-ui_regular.woff") format("woff");
+    url("../assets/fonts/BebasNeue-Regular.woff") format("woff"),
+    url("../assets/fonts/BebasNeue-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: "PT Root UI", sans-serif;
+  font-style: normal;
+  src:
+    url("../assets/fonts/PT-Root-UI_Regular.woff") format("woff"),
+    url("../assets/fonts/PT-Root-UI_Regular.woff2") format("woff2");
 }
 
 @font-face {
   font-weight: 500;
-  font-family: "PT Root UI", serif;
+  font-family: "PT Root UI", sans-serif;
   font-style: normal;
   src:
-    url("../assets/fonts/pt-root-ui_medium.woff2") format("woff2"),
-    url("../assets/fonts/pt-root-ui_medium.woff") format("woff");
+    url("../assets/fonts/PT-Root-UI_Medium.woff") format("woff"),
+    url("../assets/fonts/PT-Root-UI_Medium.woff2") format("woff2");
 }
 
 @font-face {
   font-weight: 700;
-  font-family: "PT Root UI", serif;
+  font-family: "PT Root UI", sans-serif;
   font-style: normal;
   src:
-    url("../assets/fonts/pt-root-ui_bold.woff2") format("woff2"),
-    url("../assets/fonts/pt-root-ui_bold.woff") format("woff");
-}
-
-@font-face {
-  font-weight: 700;
-  font-family: "Bebas Neue", serif;
-  font-style: normal;
-  src:
-    url("../assets/fonts/BebasNeue-Regular.woff2") format("woff2"),
-    url("../assets/fonts/BebasNeue-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-weight: 700;
-  font-family: "Bebas neue cyrillic", serif;
-  font-style: normal;
-  src:
-    url("../assets/fonts/bebasneuecyrillic.woff2") format("woff2"),
-    url("../assets/fonts/bebasneuecyrillic.woff") format("woff");
-}
-
-@font-face {
-  font-weight: 600;
-  font-family: Rubik, serif;
-  font-style: normal;
-  src:
-    url("../assets/fonts/Rubik-Medium.woff2") format("woff2"),
-    url("../assets/fonts/Rubik-Medium.woff") format("woff");
-}
-
-@font-face {
-  font-weight: 600;
-  font-family: Rubik, serif;
-  font-style: normal;
-  src:
-    url("../assets/fonts/Rubik-Bold.woff2") format("woff2"),
-    url("../assets/fonts/Rubik-Bold.woff") format("woff");
+    url("../assets/fonts/PT-Root-UI_Bold.woff") format("woff"),
+    url("../assets/fonts/PT-Root-UI_Bold.woff2") format("woff2");
 }
